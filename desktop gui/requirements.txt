@@ -1,0 +1,5 @@
+opencv-python-headless>=4.5.1.48
+Pillow>=8.1.0
+kafka-python>=2.0.2
+pytz
+pynput
