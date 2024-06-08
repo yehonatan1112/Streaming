@@ -1,5 +1,6 @@
-Flask
+flask
 flask-socketio
 kafka-python>=2.0.2
-pymongo
 pytz
+flask-cors
+pymongo
